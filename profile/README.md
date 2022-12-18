@@ -6,4 +6,27 @@ We provide Data Science and Data Strategy consulting, specialising in text, imag
 
 Read more [on our website](https://fastdatascience.com/).
 
+# Open source projects (MIT licence)
 
+* [The Harmony project (Github repo)](https://github.com/harmonydata/harmony) - Harmony is a tool and research project using natural language processing to harmonise mental health data. Read more at https://harmonydata.org.
+
+* [Clinical Trial Risk Tool (Github repo)](https://github.com/fastdatascience/clinical_trial_risk) - a tool using natural language processing to categorise clinical trial protocols (PDFs) into high, medium or low risk. Read more at https://clinicaltrialrisk.org/.
+
+# Other open source libraries
+
+* [Localspelling (Github repo)](https://github.com/fastdatascience/localspelling) - a library for localising spelling between US and UK variants - install from the command line with `pip install localspelling`
+
+* [country_named_entity_recognition (Github repo)](https://github.com/fastdatascience/country_named_entity_recognition) - a lightweight Python library for recognising country names in unstructured text and returning Pycountry objects `pip install country_named_entity_recognition`
+
+# Blog
+
+We regularly post on [Fast Data Science's blog](https://fastdatascience.com/blog/).
+
+Popular posts include
+
+* [Training machine learning models from sensitive data](https://fastdatascience.com/sensitive-data-machine-learning-model/)
+* [The key stages of a data science project](https://fastdatascience.com/the-key-stages-of-a-data-science-project/)
+
+# Contact
+
+You can contact us [on our website](https://fastdatascience.com/contact-2/).
