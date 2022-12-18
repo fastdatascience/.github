@@ -8,9 +8,9 @@ Read more [on our website](https://fastdatascience.com/).
 
 # Open source projects (MIT licence)
 
-* [The Harmony project (Github repo)](https://github.com/harmonydata/harmony) - Harmony is a tool and research project using natural language processing to harmonise mental health data. Read more at https://harmonydata.org.
+* [The Harmony project (Github repo)](https://github.com/harmonydata/harmony) - Harmony is a tool and research project using natural language processing to harmonise mental health data. Read more at https://harmonydata.org and try the demo at https://app.harmonydata.org/.
 
-* [Clinical Trial Risk Tool (Github repo)](https://github.com/fastdatascience/clinical_trial_risk) - a tool using natural language processing to categorise clinical trial protocols (PDFs) into high, medium or low risk. Read more at https://clinicaltrialrisk.org/.
+* [Clinical Trial Risk Tool (Github repo)](https://github.com/fastdatascience/clinical_trial_risk) - a tool using natural language processing to categorise clinical trial protocols (PDFs) into high, medium or low risk. Read more at https://clinicaltrialrisk.org/ and try the demo at https://app.clinicaltrialrisk.org/.
 
 # Other open source libraries
 
