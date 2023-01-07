@@ -18,6 +18,8 @@ Read more [on our website](https://fastdatascience.com/).
 
 * [country_named_entity_recognition (Github repo)](https://github.com/fastdatascience/country_named_entity_recognition) - a lightweight Python library for recognising country names in unstructured text and returning Pycountry objects `pip install country_named_entity_recognition`
 
+* [Fast Stylometry (Github repo)](https://github.com/fastdatascience/faststylometry) - a Python library for forensic stylometry.  `pip install faststylometry`. [View on Pypi](https://pypi.org/project/faststylometry/).
+
 # Blog
 
 We regularly post on [Fast Data Science's blog](https://fastdatascience.com/blog/).
