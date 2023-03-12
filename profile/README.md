@@ -4,7 +4,7 @@ Fast Data Science Ltd is a consulting company offering data science and natural 
 
 We provide Data Science and Data Strategy consulting, specialising in text, images, unstructured data, healthcare, pharmaceuticals.
 
-Read more [on our website](https://fastdatascience.com/).
+Read more [on our website](https://fastdatascience.com/) or [on our Github Pages](https://fastdatascience.github.io/).
 
 # Open source projects (MIT licence)
 
