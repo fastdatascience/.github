@@ -18,9 +18,6 @@ We provide Data Science and Data Strategy consulting, specialising in text, imag
 
 Read more [on our website](https://fastdatascience.com/) or [on our Github Pages](https://fastdatascience.github.io/).
 
-<img src="https://github-readme-stats.vercel.app/api?username=fastdatascience&?count_private=true&show_icons=true" alt="Fast Data Science" align="center" />
-
-
 # Open source projects (MIT licence)
 
 * [The Harmony project (Github repo)](https://github.com/harmonydata/harmony) - Harmony is a tool and research project using natural language processing to harmonise mental health data. Read more at https://harmonydata.ac.uk and try the demo at https://harmonydata.ac.uk/app.
