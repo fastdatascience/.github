@@ -32,7 +32,7 @@ Read more [on our website](https://fastdatascience.com/) or [on our Github Pages
 
 * [drug_named_entity_recognition (Github repo)](https://github.com/fastdatascience/drug_named_entity_recognition) - a lightweight Python library for recognising drug names in unstructured text `pip install drug-named-entity-recognition`
 
-* [Fast Stylometry (Github repo)](https://github.com/fastdatascience/faststylometry) - a Python library for forensic stylometry.  `pip install faststylometry`. [Read tutorial](https://freelancedatascientist.net/fast-stylometry-tutorial/).
+* [Fast Stylometry (Github repo)](https://github.com/fastdatascience/faststylometry) - a Python library for forensic stylometry.  `pip install faststylometry`. [Read tutorial](https://fastdatascience.com/fast-stylometry-python-library/).
 
 # Blog
 
